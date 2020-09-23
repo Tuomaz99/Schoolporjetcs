@@ -1,0 +1,23 @@
+instructions = [{
+  "id": "1",
+  "name": "Paint a wall",
+  "description": "Instructions how to paint a wall",
+  "steps": [" Clean the wall", "Tape the trim",
+      "Roll the primer onto the wall",
+      "Paint the trim", "Remove the painter's tape"],
+      "tools": ["painter's tape", "primer", "paint", "paint roller",
+      "paint tray", " paintbrush"],
+  "cost": 100,
+  "duration": 8
+},{
+"id": "2",
+  "name": "Draw a picture",
+  "description": "Instructions how to draw a picture",
+  "steps": [" Take empty paper", "Take a Pen",
+    "Draw whatever you want",
+    "Refine your work", "Frame your picture"],
+  "tools": ["Empty paper", "Pen", "Frame"],
+  "cost": 100,
+  "duration": 8
+}
+];
